@@ -58,6 +58,10 @@ Caso o usuário escolha entrar na Área Administrativa, deverá ser redirecionad
 
 [Link para o site](http://anxious-team.surge.sh/)
 
+Dados para login:
+user: gabriel@labenu.com.br 
+password: 123456
+
 ## ✒️ Autores
 
 * [**Gabriel Antunes**](https://www.linkedin.com/in/gabriel-antunes-dev/)
